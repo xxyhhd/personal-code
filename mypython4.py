@@ -17,5 +17,5 @@ def run(day):
     return sum
 
 
-day = 10
+day = 15
 print(run(day))
